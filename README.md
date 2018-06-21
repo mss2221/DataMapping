@@ -6,10 +6,8 @@ Workshop downloadable content
 
 ```markdown
 Files
-
-1. DataFlutes
-2. DataHautbois
-3. DataHautboisEdit
+1. HautboiDataset.csv
+2. FluteDataset.csv
 
 Folder
 1. HautboisPics
